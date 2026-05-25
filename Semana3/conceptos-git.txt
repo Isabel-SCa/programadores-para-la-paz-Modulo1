@@ -1,0 +1,12 @@
+Repositorio: Un repositorio (llevado al contexto informático)
+es una carpeta o almacenamiento centralizado donde se guardan,
+organizan y mantienen archivos, código fuente o bases de datos de un proyecto.
+
+Commit: Un Commit es un guardado de un punto específico en el tiempo (similar a tomar una fotografía)
+del espacio de trabajo en el que se encuentre, este commit viene acompañado de un mensaje que funciona como una
+descripción de lo hecho. Este commkt funciona a traves de un sistema gestor de versiones (en nuestro caso git)
+que se encarga de llevar un historial de todos y cada una de las contribuciones o cambios
+hechos en un proyecto, además de saber quienes son sus actores principales.
+
+push:el comando push (git push) permite enviar los cambios guardados y confirmados desde
+local (a través del commit) a remoto (en nuestro caso Github).

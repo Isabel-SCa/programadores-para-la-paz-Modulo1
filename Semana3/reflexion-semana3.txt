@@ -1,0 +1,8 @@
+Esto es algo fundamental dentro del desarrollo de proyectos y flujo de trabajo,
+ya que permite tener un control de versiones, ayuda a que múltiples equipos trabajen
+en el mismo proyecto sin desorden (a través de los commits ya que brindan información
+acerca del autor de este mismo), regresar a una versión en específico del proyecto
+(ejemplo, ya que si se saco a producción una versión final que contiene bugs, se puede hacer una
+regresión a la versión anterior mientras se solucionan los bugs encontrados, de este mismo
+modo, si se hizo una contribución que no gusto, y se había modificado demasiado el código
+en local, este mismo control de versiones nos permite traer el punto de historia que queramos (commits) al actual).

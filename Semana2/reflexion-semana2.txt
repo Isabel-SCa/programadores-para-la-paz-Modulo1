@@ -1,0 +1,5 @@
+Usar la terminal para un programador es fundamental dentro dul flujo de trabajo
+y el camino de aprendizaje. Ya que desde aquí podemos hacer cosas como explorar
+directorios, crear otros nuevos, crear archivos, otorgar permisos especiales,
+ejecutar scripts, instalar programas y repositorios (en el caso de linux y algunos casos en windows),
+entre muchisimas otras cosas que aseguran un flujo de trabajo rápido y sin contratiempos.
